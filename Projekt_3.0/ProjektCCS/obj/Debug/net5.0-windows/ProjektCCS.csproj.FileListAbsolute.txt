@@ -1,0 +1,8 @@
+C:\Projekt_15.01\kod\ProjektCCS-3.0\ProjektCCS\obj\Debug\net5.0-windows\ProjektCCS.csproj.AssemblyReference.cache
+C:\Projekt_15.01\kod\ProjektCCS-3.0\ProjektCCS\obj\Debug\net5.0-windows\ProjektCCS.Form1.resources
+C:\Projekt_15.01\kod\ProjektCCS-3.0\ProjektCCS\obj\Debug\net5.0-windows\ProjektCCS.Properties.Resources.resources
+C:\Projekt_15.01\kod\ProjektCCS-3.0\ProjektCCS\obj\Debug\net5.0-windows\ProjektCCS.csproj.GenerateResource.cache
+C:\Projekt_15.01\kod\ProjektCCS-3.0\ProjektCCS\obj\Debug\net5.0-windows\ProjektCCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekt_15.01\kod\ProjektCCS-3.0\ProjektCCS\obj\Debug\net5.0-windows\ProjektCCS.AssemblyInfoInputs.cache
+C:\Projekt_15.01\kod\ProjektCCS-3.0\ProjektCCS\obj\Debug\net5.0-windows\ProjektCCS.AssemblyInfo.cs
+C:\Projekt_15.01\kod\ProjektCCS-3.0\ProjektCCS\obj\Debug\net5.0-windows\ProjektCCS.csproj.CoreCompileInputs.cache
